@@ -1,4 +1,3 @@
-## Hi there 👋
 <h4 align="center"><samp> Olá👋🏾  Bem vindo ao meu Github! Sou estudande de T.i e estou em busca de aprendizado na área.  </samp></h4>
 
 <p align="center">
